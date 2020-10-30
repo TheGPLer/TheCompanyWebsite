@@ -38,7 +38,7 @@
         <div class="title">媒体信息</div>
         <div class="line"></div>
         <div style="height: 200px;text-align: left;padding: 40px;">
-          此处省略 1K 字。
+          此处省略 1K 字。（还没做完）
         </div>
       </div>
     </el-main>
